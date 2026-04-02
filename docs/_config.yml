@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: denXpinn
+title: 魏晋转折中的司马懿
 email: eveningjone@163.com
 description: >- # this means to ignore newlines until "baseurl:"
   一是不怕 二是乐观
